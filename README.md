@@ -10,7 +10,7 @@ Problems are solved **topic-wise** with a focus on:
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 - Arrays
 - Strings
 - Binary Search
@@ -24,7 +24,7 @@ Problems are solved **topic-wise** with a focus on:
 
 ---
 
-## 🧠 Approach
+##  Approach
 For each problem, I aim to:
 1. Understand the core pattern involved
 2. Implement an efficient solution
@@ -32,8 +32,8 @@ For each problem, I aim to:
 4. Analyze time and space complexity
 
 
-## 📬 Note
+##  Note
 This repository is meant for **learning and interview preparation**.  
 Suggestions and discussions are always welcome.
 
-Happy coding! 💻
+
